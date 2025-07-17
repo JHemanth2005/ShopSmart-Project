@@ -136,7 +136,7 @@ npm start
 
 ---
 
-## 📷 UI Screens (Add in your repo)
+## 📷 UI Screens (Added in Documention Pdf)
 - ✅ Home Page
 - ✅ Login & Signup Forms
 - ✅ Product Listing with Filters
