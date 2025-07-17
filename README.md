@@ -1,1 +1,1 @@
-# ShopSmart-Project
+# shopsmart: your digital grocery store experience
