@@ -1,4 +1,3 @@
-```markdown
 # 🛒 ShopSmart: Your Digital Grocery Store Experience
 
 **Team ID:** LTVIP2025TMID57814  
@@ -180,4 +179,3 @@ ShopSmart is more than just a grocery shopping app—it's a step towards digital
 
 > Developed with ❤️ by **The Shop Mart Team**  
 > Empowering Local Stores Through Technology
-```
